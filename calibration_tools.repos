@@ -1,8 +1,8 @@
 repositories:
   autoware/calibration_tools:
     type: git
-    url: https://github.com/tier4/CalibrationTools.git
-    version: tier4/universe
+    url: https://github.com/leo-drive/CalibrationTools.git
+    version: golf_test
   vendor/lidartag:
     type: git
     url: https://github.com/tier4/LiDARTag.git
