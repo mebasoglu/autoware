@@ -74,7 +74,7 @@ repositories:
   sensor_component/external/sbg_ros2_driver:
     type: git
     url: https://github.com/leo-drive/sbg_ros2_driver.git
-    version: humble
+    version: golf
   sensor_component/external/arena_camera:
     type: git
     url: https://github.com/leo-drive/arena_camera.git
