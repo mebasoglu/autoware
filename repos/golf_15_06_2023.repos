@@ -1,0 +1,109 @@
+repositories:
+  core/autoware.core:
+    type: git
+    url: https://github.com/autowarefoundation/autoware.core.git
+    version: 99891401473b5740e640f5a0cc0412c0984b8e0b
+  core/autoware_adapi_msgs:
+    type: git
+    url: https://github.com/autowarefoundation/autoware_adapi_msgs.git
+    version: bc9f86540acb8c0e14d02d8e6e530ebcff4acf26
+  core/autoware_common:
+    type: git
+    url: https://github.com/autowarefoundation/autoware_common.git
+    version: e91c5f7506ce417eff1e1f86fc8464e0852486a5
+  core/autoware_msgs:
+    type: git
+    url: https://github.com/autowarefoundation/autoware_msgs.git
+    version: cdacab8c35bdeee112a0ba4922bf2c346ed285c2
+  core/external/autoware_auto_msgs:
+    type: git
+    url: https://github.com/tier4/autoware_auto_msgs.git
+    version: e1795354161ed54d66659366262578863bd2b862
+  launcher/autoware_launch:
+    type: git
+    url: https://github.com/leo-drive/autoware_launch.git
+    version: f9ac8e3ec603288895a67b832397075f94252762
+  middleware/external/heaphook:
+    type: git
+    url: https://github.com/tier4/heaphook.git
+    version: 414575ef89f0b834ab1c44d42a208fde5a9ffba1
+  param/autoware_individual_params:
+    type: git
+    url: https://github.com/leo-drive/autoware_individual_params.git
+    version: 418978b5471c463626afa9da0541d123f0637b62
+  sensor_component/external/arena_camera:
+    type: git
+    url: https://github.com/leo-drive/arena_camera.git
+    version: 7a5a1c56f15f6cba9d7d4c06a2b2a77c3039c3f4
+  sensor_component/external/sbg_ros2_driver:
+    type: git
+    url: https://github.com/leo-drive/sbg_ros2_driver.git
+    version: 2a392e7fac416e688ea11776df4b7ccfe1bbcd10
+  sensor_component/external/sensor_component_description:
+    type: git
+    url: https://github.com/tier4/sensor_component_description.git
+    version: a6a628186b124bc1af73c4f48a6dcd4b441391d3
+  sensor_component/external/velodyne_vls:
+    type: git
+    url: https://github.com/tier4/velodyne_vls.git
+    version: 55dffdf3b3ef889e149977dc6ab1da124b5176c9
+  sensor_kit/golf_sensor_kit_launch:
+    type: git
+    url: https://github.com/leo-drive/golf_sensor_kit_launch.git
+    version: 487ccfffc9d6dee910559dd859e1dec77ffbba88
+  universe/autoware.universe:
+    type: git
+    url: https://github.com/leo-drive/autoware.universe.git
+    version: d817d326e7e73b76fb697cea9ccb279272e9f040
+  universe/external/eagleye:
+    type: git
+    url: https://github.com/MapIV/eagleye.git
+    version: c0a86a3ed77bc968407912c154975d7cd63bcbf6
+  universe/external/llh_converter:
+    type: git
+    url: https://github.com/MapIV/llh_converter.git
+    version: 4d4fb18d43800a45e08738dfe18ae3b34903f143
+  universe/external/morai_msgs:
+    type: git
+    url: https://github.com/MORAI-Autonomous/MORAI-ROS2_morai_msgs.git
+    version: 04f0a0b6a069fef62e0236189ce23d60abfe97f7
+  universe/external/muSSP:
+    type: git
+    url: https://github.com/tier4/muSSP.git
+    version: c79e98fd5e658f4f90c06d93472faa977bc873b9
+  universe/external/ndt_omp:
+    type: git
+    url: https://github.com/tier4/ndt_omp.git
+    version: 9a0877ac99cf873d9e984e4f1c485e537503fb7f
+  universe/external/pointcloud_to_laserscan:
+    type: git
+    url: https://github.com/tier4/pointcloud_to_laserscan.git
+    version: 948a4fca35dcb03c6c8fbfa610a686f7c919fe0b
+  universe/external/rtklib_ros_bridge:
+    type: git
+    url: https://github.com/MapIV/rtklib_ros_bridge.git
+    version: d499bc1efb051924be23c0f4a381f99ab4dcdeac
+  universe/external/rviz_2d_overlay_plugins:
+    type: git
+    url: git@github.com:leo-drive/rviz_2d_overlay_plugins.git
+    version: 3ff24ea5627c6be938de9213d6785aab0755b86d
+  universe/external/tier4_ad_api_adaptor:
+    type: git
+    url: https://github.com/tier4/tier4_ad_api_adaptor.git
+    version: 65fba623366ec3ce214587181a45eec3cbecc55c
+  universe/external/tier4_autoware_msgs:
+    type: git
+    url: https://github.com/tier4/tier4_autoware_msgs.git
+    version: f952fbc34a146b6db711652fed995bf0fa062586
+  vehicle/external/leo_vehicle_interface:
+    type: git
+    url: https://github.com/leo-drive/leo_vehicle_interface.git
+    version: 9108cd46af44266d0ec58910ec2cddce4125720f
+  vehicle/external/pacmod_interface:
+    type: git
+    url: https://github.com/tier4/pacmod_interface.git
+    version: 1f5acd3cb6dc4d41865bc3add8eff8f0d6fe264b
+  vehicle/golf_vehicle_launch:
+    type: git
+    url: https://github.com/leo-drive/golf_vehicle_launch.git
+    version: 4e90501546bd62274c79e6be425bce483dfb6c7d
