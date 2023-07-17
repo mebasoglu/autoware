@@ -83,15 +83,15 @@ repositories:
     type: git
     url: https://github.com/leo-drive/arena_camera.git
     version: golf
-  sensor_component/external/velodyne_vls:
+  sensor_component/external/awf_velodyne:
     type: git
-    url: https://github.com/tier4/velodyne_vls.git
-    version: tier4/universe
+    url: https://github.com/leo-drive/awf_velodyne.git
+    version: self_sync_2
   # sensor_kit
   sensor_kit/golf_sensor_kit_launch:
     type: git
     url: https://github.com/leo-drive/golf_sensor_kit_launch.git
-    version: golf
+    version: dev/meb/change-to-awf-velodyne
   # vehicle
   vehicle/golf_vehicle_launch:
     type: git
